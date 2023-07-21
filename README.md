@@ -4,4 +4,4 @@ Responsive Real-World Website
 
 ## Screenshots:
 
-[![Omnifood][[file:///C:/Users/Ayman/Desktop/OmniFood.png]]]
+[![Omnifood][[![OmniFood](https://github.com/Ayman-Sedik/Omnifood-Project/assets/87248906/dac5bbca-e629-4066-8e43-37be926f1857)]]]
