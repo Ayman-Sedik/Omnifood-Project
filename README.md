@@ -1,5 +1,5 @@
 # [Omnifood Website](https://omnifood-ayman99.netlify.app/) - Version 1.2.0 Official (Beta version)
-<p>[Demo video]</p> "https://www.linkedin.com/feed/update/urn:li:activity:7072394154869239808/"
+<p>[Demo video](https://www.linkedin.com/feed/update/urn:li:activity:7072394154869239808/)</p>
 
 ## Screenshots:
 ![Omnifood](https://github.com/Ayman-Sedik/Omnifood-Project/assets/87248906/dac5bbca-e629-4066-8e43-37be926f1857)
