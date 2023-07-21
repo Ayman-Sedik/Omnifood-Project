@@ -1,4 +1,4 @@
-# [Omnifood Website](https://omnifood-ayman99.netlify.app/) - Version 1.0.0 Official
+# [Omnifood Website](https://omnifood-ayman99.netlify.app/) - Version 1.2.0 Official (Beta version)
 <p>[Demo video]</p> "https://www.linkedin.com/feed/update/urn:li:activity:7072394154869239808/"
 
 ## Screenshots:
